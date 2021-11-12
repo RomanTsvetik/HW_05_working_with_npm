@@ -1,0 +1,25 @@
+{
+  "name": "hw_05_working_with_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanTsvetik/HW_05_working_with_npm.git"
+  },
+  "keywords": [
+    "math_functions"
+  ],
+  "author": "Roman Tsvietik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanTsvetik/HW_05_working_with_npm/issues"
+  },
+  "homepage": "https://github.com/RomanTsvetik/HW_05_working_with_npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
